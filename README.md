@@ -13,7 +13,9 @@ This project is an ecommerce backend built using Node.js. It provides the core s
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/ecommerce-backend.git
+   git clone https://github.com/Nanodev-gh/ecommerce-backend.git
+    cd ecommerce-backend
+npm install
     ```
 2. Navigate to the project directory:
     ```bash
